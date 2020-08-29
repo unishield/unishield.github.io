@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+### Welcome to UNISHIELD
 
-You can use the [editor on GitHub](https://github.com/unishield/unishield.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Scammers are Bad MKey,
+Scammers don't Hodl but convert to FIAT
+Scammers are organized and give large effort to succeed in it
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Reasons
 
-### Markdown
+One of the reasons why crypto and decentralization is not widespread is beacause of scams surrounding it.
+People rather enjoy "security" centralization gives them
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+It is time to organize and fight back.
 
-```markdown
-Syntax highlighted code block
+### What to do?
 
-# Header 1
-## Header 2
-### Header 3
+UniShield will build community of crypto enthusiasts who want to bring scams to minimum.
+We will build tools, provide education and spread of information
 
-- Bulleted
-- List
+### How
 
-1. Numbered
-2. List
+We would have DAO and governance with token so decisions on which way to go and where to focus efforts would be decided by the members of the community.
+We will organize on discord.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/unishield/unishield.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you interested fill the simple form where you will state how you can help and where we can contact you. We need every profile that could do any good, from designer, developers to marketers and public persons
