@@ -26,4 +26,6 @@ We will communicate on discord.\
 If you interested fill the simple form where you will state how you can help and where we can contact you.\
 We need every profile that could do any good, from designer, developers to marketers and public persons
 
-https://docs.google.com/forms/d/e/1FAIpQLSfwhaoaYZpl0KR16pd0Bdqe7eXEdFN_BC0ZHLdElpTI8Qv8Wg/viewform
+[Join Here](https://docs.google.com/forms/d/e/1FAIpQLSfwhaoaYZpl0KR16pd0Bdqe7eXEdFN_BC0ZHLdElpTI8Qv8Wg/viewform "Join us")
+
+
